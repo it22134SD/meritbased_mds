@@ -1,2 +1,2 @@
 # meritbased_mds
-Merit-based decision system
+Merit-based make decision system
